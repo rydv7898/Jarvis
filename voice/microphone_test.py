@@ -7,7 +7,7 @@ duration = 5
 device = 1
 
 
-print("SAMSHIV Microphone Volume Test")
+print("JARVIS Microphone Volume Test")
 print("Speak normally for 5 seconds...")
 print()
 

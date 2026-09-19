@@ -14,7 +14,7 @@ device = 1
 
 def listen_and_respond():
 
-    print("SAMSHIV is listening...")
+    print("JARVIS is listening...")
     print("Please speak...")
 
     recording = sd.rec(
@@ -52,7 +52,7 @@ def listen_and_respond():
 
         response = process_command(text)
 
-        print("SAMSHIV:", response)
+        print("JARVIS:", response)
 
         speak(response)
 

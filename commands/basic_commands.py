@@ -116,7 +116,7 @@ def process_command(text):
     elif "your name" in text:
 
         return (
-            "My name is SAMSHIV. "
+            "My name is JARVIS. "
             "I am your AI assistant."
         )
 

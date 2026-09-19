@@ -2,7 +2,7 @@ from core.assistant import start_assistant
 
 
 def main():
-    print("Starting SAMSHIV...")
+    print("Starting JARVIS...")
     start_assistant()
 
 

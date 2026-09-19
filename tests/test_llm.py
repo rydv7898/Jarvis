@@ -3,16 +3,16 @@ from ai.llm import ask_llm
 
 def main():
 
-    print("SAMSHIV LLM7 Test")
+    print("JARVIS LLM7 Test")
     print("------------------")
 
-    question = input("Ask SAMSHIV: ")
+    question = input("Ask JARVIS: ")
 
     print("\nThinking...\n")
 
     answer = ask_llm(question)
 
-    print("SAMSHIV:")
+    print("JARVIS:")
     print(answer)
 
 

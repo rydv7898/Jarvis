@@ -168,7 +168,7 @@ def show_reminder(
 
     print()
 
-    print("🔔 SAMSHIV REMINDER")
+    print("🔔 JARVIS REMINDER")
 
     print(
         f"Reminder {reminder_id}: "
@@ -193,7 +193,7 @@ def list_reminders():
 
     print()
 
-    print("📋 SAMSHIV REMINDERS")
+    print("📋 JARVIS REMINDERS")
 
     active_count = 0
 

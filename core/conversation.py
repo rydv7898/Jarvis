@@ -101,7 +101,7 @@ def get_conversation_response(text):
     ):
 
         return (
-            "I am SAMSHIV, your personal Python "
+            "I am JARVIS, your personal Python "
             "voice assistant."
         )
 
@@ -145,7 +145,7 @@ def get_conversation_response(text):
 
         return (
             "Let's do something productive. "
-            "We could study Python, work on SAMSHIV, "
+            "We could study Python, work on JARVIS, "
             "or practice English."
         )
 

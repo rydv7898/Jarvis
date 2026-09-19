@@ -36,7 +36,7 @@ def ask_llm(question):
             {
                 "role": "system",
                 "content": (
-                    "You are SAMSHIV, a helpful personal "
+                    "You are JARVIS, a helpful personal "
                     "AI assistant. Give clear and concise "
                     "answers."
                 )
@@ -52,3 +52,4 @@ def ask_llm(question):
     answer = response.choices[0].message.content
 
     return answer
+
