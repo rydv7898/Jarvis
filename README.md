@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 About JARVIS
+##📌 About JARVIS
 
 **JARVIS** is a personal AI voice assistant built using Python.
 
@@ -90,7 +90,7 @@ The basic workflow is:
                         ▼
                     🤖 JARVIS
 
-# 🎯 Project Goals
+🎯 Project Goals
 
 The long-term goal is to turn JARVIS into a powerful personal AI assistant.
 
@@ -111,9 +111,9 @@ The project is helping me learn how to combine multiple technologies into one re
 
 ---
 
-# 🛣️ Roadmap
+🛣️ Roadmap
 
-## ✅ Completed
+# ✅ Completed
 
 -  Python project structure 
 -  Voice input 
@@ -131,7 +131,7 @@ The project is helping me learn how to combine multiple technologies into one re
 
 ---
 
-## 🔄 Currently Improving
+# 🔄 Currently Improving
 
 -  Better voice interaction 
 -  Better command recognition 
@@ -141,7 +141,7 @@ The project is helping me learn how to combine multiple technologies into one re
 
 ---
 
-## 🔮 Future Features
+# 🔮 Future Features
 
 -  Wake-word detection 
 -  Long-term memory 
@@ -159,8 +159,7 @@ The project is helping me learn how to combine multiple technologies into one re
 -  More intelligent task automation 
 
 ---
-
-# 📸 Screenshots & Demo
+📸 Screenshots & Demo
 
 Screenshots and demonstration videos will be added as the project develops.
 
@@ -176,7 +175,7 @@ Future documentation will include:
 
 ---
 
-# 📊 Project Status
+📊 Project Status
 
 ```
 ```
@@ -194,7 +193,7 @@ Future documentation will include:
 
 ---
 
-# 👨‍💻 Developer
+👨‍💻 Developer
 
 ## Sam Yadav
 
@@ -214,7 +213,7 @@ JARVIS is one of my practical projects for learning and applying these technolog
 
 ---
 
-# 🤝 Contributing
+ 🤝 Contributing
 
 This project is primarily a personal learning project.
 
@@ -229,7 +228,7 @@ If you find a problem:
 
 ---
 
-# ⭐ Support
+ ⭐ Support
 
 If you find JARVIS interesting:
 
@@ -245,7 +244,7 @@ If you find JARVIS interesting:
 
 ---
 
-# 📜 License
+📜 License
 
 This project is currently maintained as a personal learning and development project.
 
@@ -253,7 +252,7 @@ This project is currently maintained as a personal learning and development proj
 
  \<div align="center"> 
 
-# 🤖 JARVIS
+ 🤖 JARVIS
 
 ### Listen • Understand • Think • Respond
 
