@@ -88,7 +88,7 @@ def list_tasks():
         return "You have no tasks."
 
     print()
-    print("📋 JARVIS TASKS")
+    print("📋 SAMSHIV TASKS")
 
     for task in tasks:
 

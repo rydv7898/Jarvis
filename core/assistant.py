@@ -1,14 +1,18 @@
+
 from voice.assistant_voice import listen_and_respond
+from commands.basic_commands import process_command
+from core.memory import ConversationMemory
 
 
 def start_assistant():
+    print("SAMSHIV assistant loop started.")
 
-    print("JARVIS assistant loop started.")
+    memory = ConversationMemory(max_messages=10)
 
     while True:
+        print("\nSAMSHIV is ready for the next command...")
 
-        print("\nJARVIS is ready for the next command...")
-
+        # Listen to the user
         text = listen_and_respond()
 
         if text is None:
@@ -16,15 +20,12 @@ def start_assistant():
 
         command = text.lower().strip()
 
-        if (
-            command == "stop"
-            or command == "exit"
-            or "stop assistant" in command
-            or "close JARVIS" in command
-            or command == "goodbye"
-            or command == "quit"
+        # Exit commands
+        if command in ("stop", "exit", "quit", "goodbye") or (
+            "stop assistant" in command
+            or "close samshiv" in command
         ):
-            print("JARVIS: Goodbye Sam!")
+            print("SAMSHIV: Goodbye Sam!")
             break
 
 

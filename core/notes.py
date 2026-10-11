@@ -85,7 +85,7 @@ def list_notes():
         return "You have no notes."
 
     print()
-    print("📝 JARVIS NOTES")
+    print("📝 SAMSHIV NOTES")
 
     for note in notes:
 
